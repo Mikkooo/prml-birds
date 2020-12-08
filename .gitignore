@@ -1,7 +1,17 @@
+#unnecessary
+*.csv
+.*
+audio
+ff1010bird_wav
+warblrb10k_public_wav
+*.npy
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
